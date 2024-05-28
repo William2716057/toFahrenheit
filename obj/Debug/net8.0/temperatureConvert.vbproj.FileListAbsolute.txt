@@ -1,0 +1,14 @@
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\bin\Debug\net8.0\temperatureConvert.exe
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\bin\Debug\net8.0\temperatureConvert.deps.json
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\bin\Debug\net8.0\temperatureConvert.runtimeconfig.json
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\bin\Debug\net8.0\temperatureConvert.dll
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\bin\Debug\net8.0\temperatureConvert.pdb
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.AssemblyInfoInputs.cache
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.AssemblyInfo.vb
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.vbproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.dll
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\refint\temperatureConvert.dll
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.pdb
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\temperatureConvert.genruntimeconfig.cache
+C:\Users\Wills\source\repos\temperatureConvert\temperatureConvert\obj\Debug\net8.0\ref\temperatureConvert.dll
